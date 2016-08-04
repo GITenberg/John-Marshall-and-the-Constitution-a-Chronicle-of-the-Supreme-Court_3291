@@ -1,0 +1,42 @@
+_repo: John-Marshall-and-the-Constitution-a-Chronicle-of-the-Supreme-Court_3291
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corwin, Edward Samuel
+    alias: Corwin, Edward S. (Edward Samuel)
+    birthdate: 1878
+    deathdate: 1963
+    gutenberg_agent_id: '1154'
+    url: http://www.gutenberg.org/2009/agents/1154
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Samuel_Corwin
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+- United States Law
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3291'
+language: en
+publication_note: '[S.l. :  s.n.,  1918]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 16
+subjects:
+- !lcsh 'Marshall, John, 1755-1835'
+- !lcc 'KF'
+- !lcsh 'Constitutional history -- United States'
+- !lcsh 'United States. Supreme Court'
+- !lcc 'E300'
+- GITenberg
+title: John Marshall and the Constitution, a Chronicle of the Supreme Court
+url: http://www.gutenberg.org/ebooks/3291
